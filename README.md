@@ -304,13 +304,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <p align="center">
   <a href="https://github.com/yourusername/RaitaLeaks">
-    <img src="https://img.shields.io/github/stars/anuj-er/RaitaLeaks?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/abhinavrathee/RaitaLeaks?style=social" alt="GitHub stars">
   </a>
   <a href="https://github.com/yourusername/RaitaLeaks/network/members">
-    <img src="https://img.shields.io/github/forks/anuj-er/RaitaLeaks?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/abhinavrathee/RaitaLeaks?style=social" alt="GitHub forks">
   </a>
   <a href="https://github.com/yourusername/RaitaLeaks/issues">
-    <img src="https://img.shields.io/github/issues/anuj-er/RaitaLeaks" alt="GitHub issues">
+    <img src="https://img.shields.io/github/issues/abhinavrathee/RaitaLeaks" alt="GitHub issues">
   </a>
 </p>
 
